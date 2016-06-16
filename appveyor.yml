@@ -2,8 +2,7 @@ build: off
 
 notifications:
   - provider: Webhook
-    url:
-      secure: zo4G8QEEhysMlbsS97YWUjKnB2hzs4ZXWdXfca22/L+m4/sBA/duv7FsPddwKjVT/TGfmQ+pwMAUj9hMByeRRl+oGN7aKal4gOjm7pzJSUg=
+    url: https://liberis-finbot-staging.herokuapp.com/hubot/appveyor/webhook
     headers:
       Authorization:
         secure: 4PqhloV2J8t5ZWSFOpPK4g==
